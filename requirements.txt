@@ -1,0 +1,5 @@
+python-telegram-bot==21.3
+python-docx
+pandas
+openpyxl
+httpx
